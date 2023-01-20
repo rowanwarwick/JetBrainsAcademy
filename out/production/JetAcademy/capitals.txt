@@ -1,0 +1,5 @@
+Japan Tokyo 3
+Poland Varshava 3
+Russia Moscow 1
+France Paris 2
+England London 0
