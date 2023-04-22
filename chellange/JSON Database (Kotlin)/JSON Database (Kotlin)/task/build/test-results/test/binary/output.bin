@@ -1,0 +1,51 @@
+[1;31m
+Start test 1[0m
+Server started!
+Client started!
+!Sent: {"type":"exit","key":null}
+Received: {"response":"OK"}
+[1;31m
+Start test 2[0m
+Server started!
+Client started!
+Sent: {"type":"get","key":"1"}
+6Received: {"response":"ERROR","reason":"No such key"}
+Client started!
+6Sent: {"type":"set","key":"1","value":"Hello world!"}
+Received: {"response":"OK"}
+Client started!
+5Sent: {"type":"set","key":"1","value":"HelloWorld!"}
+Received: {"response":"OK"}
+Client started!
+Sent: {"type":"get","key":"1"}
+2Received: {"response":"OK","value":"HelloWorld!"}
+Client started!
+"Sent: {"type":"delete","key":"1"}
+Received: {"response":"OK"}
+Client started!
+"Sent: {"type":"delete","key":"1"}
+6Received: {"response":"ERROR","reason":"No such key"}
+Client started!
+Sent: {"type":"get","key":"1"}
+6Received: {"response":"ERROR","reason":"No such key"}
+Client started!
+;Sent: {"type":"set","key":"text","value":"Some text here"}
+Received: {"response":"OK"}
+Client started!
+"Sent: {"type":"get","key":"text"}
+5Received: {"response":"OK","value":"Some text here"}
+Client started!
+ Sent: {"type":"get","key":"56"}
+6Received: {"response":"ERROR","reason":"No such key"}
+Client started!
+#Sent: {"type":"delete","key":"56"}
+6Received: {"response":"ERROR","reason":"No such key"}
+Client started!
+$Sent: {"type":"delete","key":"100"}
+6Received: {"response":"ERROR","reason":"No such key"}
+Client started!
+7Sent: {"type":"delete","key":"That key doesn't exist"}
+6Received: {"response":"ERROR","reason":"No such key"}
+Client started!
+!Sent: {"type":"exit","key":null}
+Received: {"response":"OK"}

@@ -8,7 +8,8 @@ import java.net.Socket
 
 object Client {
     init {
-        System.setProperty("client.data", "${System.getProperty("user.dir")}/src/main/kotlin/client/data/") //
+        val sep = File.separator
+        System.setProperty("client.data", "${System.getProperty("user.dir")}${sep}src${sep}main${sep}kotlin${sep}client${sep}data${sep}") //
     }
 
     private const val address = "127.0.0.1"

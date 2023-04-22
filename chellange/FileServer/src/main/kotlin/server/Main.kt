@@ -20,7 +20,8 @@ object Server {
     private val executor: ExecutorService = Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors())
 
     init {
-        System.setProperty("server.data", "${System.getProperty("user.dir")}/src/main/kotlin/server/data/") //
+        val sep = File.separator
+        System.setProperty("server.data", "${System.getProperty("user.dir")}${sep}src${sep}main${sep}kotlin${sep}server${sep}data${sep}") //
         if (File(System.getProperty("server.data") + "saveData").exists()) {
             File(System.getProperty("server.data") + "saveData").forEachLine {
                 val data = it.split(" ")

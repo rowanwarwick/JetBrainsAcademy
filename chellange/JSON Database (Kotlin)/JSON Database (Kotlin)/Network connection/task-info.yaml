@@ -1,0 +1,207 @@
+type: edu
+files:
+- name: src/jsondatabase/Main.kt
+  visible: true
+  text: |-
+    package jsondatabase
+
+    fun main() {
+        val json = Array<String?>(100) { null }
+        do {
+            val inputUser = readln()
+            val listInput = inputUser.split(" ")
+            when (listInput[0]) {
+                "set" -> {
+                    if (listInput[1].toInt() !in 1..100) {
+                        json[listInput[1].toInt() - 1] = listInput[2].also { println("OK") }
+                    } else {
+                        println("ERROR")
+                    }
+                }
+
+                "get" -> {
+                    if (listInput[1].toInt() !in 1..100) {
+                        println(json[listInput[1].toInt() - 1] ?: "ERROR")
+                    } else {
+                        println("ERROR")
+                    }
+                }
+
+                "delete" -> {
+                    if (listInput[1].toInt() !in 1..100) {
+                        json[listInput[1].toInt() - 1] = null.also { println("OK") }
+                    } else {
+                        println("ERROR")
+                    }
+                }
+            }
+        } while (inputUser != "exit")
+    }
+  learner_created: false
+- name: test/JsonDatabaseTest.java
+  visible: false
+  text: |
+    import org.hyperskill.hstest.dynamic.DynamicTest;
+    import org.hyperskill.hstest.stage.StageTest;
+    import org.hyperskill.hstest.testcase.CheckResult;
+    import org.hyperskill.hstest.testing.TestedProgram;
+
+    public class JsonDatabaseTest extends StageTest<String> {
+
+        private static final String CORRECT_SERVER_OUTPUT =
+            "Server started!\n" +
+                "Received: Give me a record # N\n" +
+                "Sent: A record # N was sent!";
+
+        private static final String CORRECT_CLIENT_OUTPUT =
+            "Client started!\n" +
+                "Sent: Give me a record # N\n" +
+                "Received: A record # N was sent!";
+
+        @DynamicTest(order = 1)
+        CheckResult test() {
+
+            TestedProgram server = new TestedProgram("jsondatabase.server");
+            server.startInBackground();
+
+            try {
+                Thread.sleep(100);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+
+            String serverOutput = server.getOutput().trim();
+
+            if (!serverOutput.trim().equals("Server started!")) {
+                return CheckResult.wrong("Server output should be 'Server started!' until a client connects!");
+            }
+
+            TestedProgram client = new TestedProgram("jsondatabase.client");
+
+            String clientOutput = client.start();
+            serverOutput += "\n" + server.getOutput();
+
+            String[] serverOutputLines = serverOutput.split("\n");
+
+            if (serverOutputLines.length != 3) {
+                return CheckResult.wrong("After the client connects to the server, the server output should contain 3 lines!");
+            }
+
+            String serverOutputLastLine = serverOutputLines[serverOutputLines.length - 1];
+
+            if (!serverOutputLastLine.contains("Sent: A record #") || !serverOutputLastLine.contains("was sent!")) {
+                return CheckResult.wrong("Server output after client connects to the server should be:\n"
+                    + CORRECT_SERVER_OUTPUT + "\n\nWhere N is some number.\n\nYour output:\n" + serverOutput);
+            }
+
+            String[] clientOutputLines = clientOutput.split("\n");
+
+            if (clientOutputLines.length != 3) {
+                return CheckResult.wrong("After the client connects to the server, the client output should contain 3 lines!");
+            }
+
+            String clientOutputLastLine = clientOutputLines[clientOutputLines.length - 1];
+
+            if (!clientOutputLastLine.contains("Received: A record #") || !clientOutputLastLine.contains("was sent!")) {
+                return CheckResult.wrong("Client output after client connects to the server should be:\n"
+                    + CORRECT_CLIENT_OUTPUT + "\n\nWhere N is some number.\n\nYour output:\n" + clientOutput);
+            }
+
+            return CheckResult.correct();
+        }
+    }
+  learner_created: false
+- name: src/jsondatabase/server/main.kt
+  visible: true
+  text: |-
+    package jsondatabase.server
+
+    import java.io.DataInputStream
+    import java.io.DataOutputStream
+    import java.net.InetAddress
+    import java.net.ServerSocket
+
+    object Server {
+        init {
+            println("Server started!")
+        }
+        private const val address = "127.0.0.1"
+        private const val port = 23456
+        private val server = ServerSocket(port, 50, InetAddress.getByName(address))
+        private val socket = server.accept()
+        val input = DataInputStream(socket.getInputStream())
+        val output = DataOutputStream(socket.getOutputStream())
+    }
+
+    fun main() {
+        val answer = Server.input.readUTF()
+        println("Received: $answer")
+        val msg = "A record # 12 was sent!"
+        Server.output.writeUTF(msg)
+        println("Sent: $msg")
+    //    val json = Array<String?>(100) { null }
+    //    do {
+    //        val inputUser = readln()
+    //        val command = inputUser.substringBefore(" ")
+    //        val cell = inputUser.drop(command.length + 1).substringBefore(" ")
+    //        val text = inputUser.drop(command.length + cell.length + 2)
+    //        when (command) {
+    //            "set" -> {
+    //                if (cell.toInt() in 1..100) {
+    //                    json[cell.toInt() - 1] = text.also { println("OK") }
+    //                } else {
+    //                    println("ERROR")
+    //                }
+    //            }
+    //
+    //            "get" -> {
+    //                if (cell.toInt() in 1..100) {
+    //                    println(json[cell.toInt() - 1] ?: "ERROR")
+    //                } else {
+    //                    println("ERROR")
+    //                }
+    //            }
+    //
+    //            "delete" -> {
+    //                if (cell.toInt() in 1..100) {
+    //                    json[cell.toInt() - 1] = null.also { println("OK") }
+    //                } else {
+    //                    println("ERROR")
+    //                }
+    //            }
+    //        }
+    //    } while (inputUser != "exit")
+    }
+  learner_created: true
+- name: src/jsondatabase/client/main.kt
+  visible: true
+  text: |-
+    package jsondatabase.client
+
+    import java.io.DataInputStream
+    import java.io.DataOutputStream
+    import java.net.InetAddress
+    import java.net.Socket
+
+    object Client {
+        private const val address = "127.0.0.1"
+        private const val port = 23456
+        private val socket = Socket(InetAddress.getByName(address), port)
+        val input = DataInputStream(socket.getInputStream())
+        val output = DataOutputStream(socket.getOutputStream())
+    }
+
+    fun main() {
+        val msg = "Give me a record # 12"
+        Client.output.writeUTF(msg)
+        println("Sent: $msg")
+        val answer = Client.input.readUTF()
+        println("Received: $answer")
+    }
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/26260#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 20 Apr 2023 18:00:25 UTC"
+record: 2
