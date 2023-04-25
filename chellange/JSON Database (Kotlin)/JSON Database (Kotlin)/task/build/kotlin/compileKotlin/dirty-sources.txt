@@ -1,3 +1,0 @@
-/opt/goinfre/rowanwar/JetBrainsAcademy/chellange/JSON Database (Kotlin)/JSON Database (Kotlin)/task/src/jsondatabase/server/main.kt
-/opt/goinfre/rowanwar/JetBrainsAcademy/chellange/JSON Database (Kotlin)/JSON Database (Kotlin)/task/src/jsondatabase/client/main.kt
-/opt/goinfre/rowanwar/JetBrainsAcademy/chellange/JSON Database (Kotlin)/JSON Database (Kotlin)/task/src/jsondatabase/Main.kt

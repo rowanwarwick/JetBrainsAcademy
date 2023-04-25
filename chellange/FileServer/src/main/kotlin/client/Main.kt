@@ -88,5 +88,9 @@ object Client {
 }
 
 fun main() {
-    Client.query()
+    try {
+        Client.query()
+    } catch (_: ExceptionInInitializerError) {
+        println("server/socket off")
+    }
 }
