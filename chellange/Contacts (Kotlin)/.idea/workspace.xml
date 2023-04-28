@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfddaa8e-aebc-4da5-b700-55734328c172" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_17_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_3_17_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_17_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_reflect_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/Contacts_(Kotlin).Contacts__Kotlin_-task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/Contacts_(Kotlin).Contacts__Kotlin_-task.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/Contacts_(Kotlin).Contacts__Kotlin_-task.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/classes/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-classes-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/classes/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-classes-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/classes/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-classes-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/classes/kotlin/Contacts_(Kotlin).Contacts__Kotlin_-task-build-classes-kotlin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/classes/kotlin/Contacts_(Kotlin).Contacts__Kotlin_-task-build-classes-kotlin.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/classes/kotlin/Contacts_(Kotlin).Contacts__Kotlin_-task-build-classes-kotlin.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/generated/sources/annotationProcessor/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-generated-sources-annotationProcessor-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/generated/sources/annotationProcessor/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-generated-sources-annotationProcessor-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/generated/sources/annotationProcessor/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-generated-sources-annotationProcessor-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/generated/sources/headers/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-generated-sources-headers-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/generated/sources/headers/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-generated-sources-headers-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/generated/sources/headers/java/Contacts_(Kotlin).Contacts__Kotlin_-task-build-generated-sources-headers-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/reports/tests/Contacts_(Kotlin).Contacts__Kotlin_-task-build-reports-tests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/reports/tests/Contacts_(Kotlin).Contacts__Kotlin_-task-build-reports-tests.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/reports/tests/Contacts_(Kotlin).Contacts__Kotlin_-task-build-reports-tests.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/test-results/Contacts_(Kotlin).Contacts__Kotlin_-task-build-test-results.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/test-results/Contacts_(Kotlin).Contacts__Kotlin_-task-build-test-results.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/test-results/Contacts_(Kotlin).Contacts__Kotlin_-task-build-test-results.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/tmp/Contacts_(Kotlin).Contacts__Kotlin_-task-build-tmp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/tmp/Contacts_(Kotlin).Contacts__Kotlin_-task-build-tmp.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts (Kotlin)/task/build/tmp/Contacts_(Kotlin).Contacts__Kotlin_-task-build-tmp.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Contacts_(Kotlin).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Contacts_(Kotlin).util.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Contacts_(Kotlin).util.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/util/Contacts_(Kotlin).util.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Create a menu/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Create a menu/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Create a menu/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/First contact/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/First contact/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/First contact/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Searching/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Searching/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Searching/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Upgrade your contacts/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Upgrade your contacts/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/Upgrade your contacts/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/java/test/ContactsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/java/test/TestClue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/kotlin/main/META-INF/Contacts__Kotlin_-task.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/kotlin/main/contacts/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/kotlin/main/contacts/Contacts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/kotlin/main/contacts/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/kotlin/main/contacts/Organization$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/kotlin/main/contacts/Organization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/kotlin/main/contacts/Person$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/classes/kotlin/main/contacts/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/reports/tests/test/classes/ContactsTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/test-results/test/TEST-ContactsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_10890404256553375209_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_11057321817384517633_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_11372915000440526340_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_11519187961634600690_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_1164468999559000422_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_12098206033418061336_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_1360249784763562805_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_14625894204726684586_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_16264450604441802676_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_16709855699952055040_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_16800041923370240885_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_16985707925556354455_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_17314347826167611433_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_1888631915261311375_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_2464073046741061055_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_2587938158628979457_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_2891626435238350298_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_3977225101142348309_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_5700869089272010260_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_5973894883170662380_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_6173370167412047930_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_7225740764539724773_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_7784014558933891290_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_7872338666417462815_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_7924529393953262393_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_8177496767322260059_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_8516249406329218237_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_8564370431779163800_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_8625322240343225425_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_8844355125490076207_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_8938507214597157173_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/build/tmp/test/jar_extract_964781975893559815_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/out/production/classes/META-INF/Contacts__Kotlin_-task.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/out/production/classes/contacts/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/out/production/classes/contacts/Contacts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/out/production/classes/contacts/MainKt$main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/out/production/classes/contacts/MainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/out/production/classes/contacts/Organization.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/out/production/classes/contacts/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts (Kotlin)/task/test/ContactsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ex/src/main/kotlin/Main.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2OyRkmDvZQ61HFUKE1wclwy7nAb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;show.inlinked.gradle.project.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="Codeforces" factoryName="Codeforces">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contacts.MainKt" />
+      <module name="Contacts_(Kotlin).Contacts__Kotlin_-task.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfddaa8e-aebc-4da5-b700-55734328c172" name="Changes" comment="" />
+      <created>1682530980989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682530980989</updated>
+    </task>
+    <servers />
+  </component>
+</project>
